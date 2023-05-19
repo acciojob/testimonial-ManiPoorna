@@ -1,6 +1,9 @@
 /*  your css code here. If applicable */
 body{
 	background : #f5f5f5;
+	font-family: 'Bruno Ace SC', cursive;
+font-family: 'Kanit', sans-serif;
+font-family: 'Ubuntu', sans-serif;
 }
 .author {
 	text-align: right;
@@ -11,7 +14,7 @@ body{
 	heigth : 30vh;
 	border-radius : 5px;
 	background-color : white;
-	padding : 2px 5px;
+	padding : 10px 5px;
 }
 .divv-2{
 	
@@ -19,5 +22,8 @@ body{
 	heigth : 30vh;
 	border-radius : 5px;
 	background-color : white;
-	padding : 2px 5px;
+	padding : 10px 5px;
+}
+.author {
+	font-style : italic;
 }
